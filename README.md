@@ -1,6 +1,6 @@
 <!-- Profile README by YOUR_USERNAME -->
 
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi, Alireza 👋</h1>
 <p align="center">
   Front-End Developer • React / Next.js • UI focused • Clean code enjoyer
 </p>
