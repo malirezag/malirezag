@@ -1,59 +1,58 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Malireza+G;I+Build+Modern+Websites;Welcome+to+my+Portfolio" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto" alt="coding animation" />
+
+  <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Alireza!;I+Build+Creative+Websites;Welcome+to+my+Portfolio" alt="Typing SVG" />
+  </a>
 
   <br/>
 
   <p>
     <a href="mailto:malirezag@gmail.com">
-      <img src="https://img.shields.io/badge/Email-malirezag%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-malirezag%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://my-portofilo-blue.vercel.app/">
-      <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=vercel" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
   
-  <br/>
-
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ About Me
 
-I am a passionate **Web Developer** focused on creating responsive, user-friendly applications. I specialize in building e-commerce platforms, professional corporate sites, and dynamic blogs using modern web technologies.
+I am **Alireza**, a passionate Front-end Developer. I love turning complex problems into simple, beautiful, and intuitive interface designs. I specialize in building high-performance e-commerce shops and professional business websites.
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vercel,git,github,vscode&theme=dark" alt="My Skills" />
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Type | Description | Live Demo |
+| Project | Type | Description | Live Link |
 | :--- | :--- | :--- | :---: |
-| **Online Shop** | E-Commerce | A fully responsive store interface with product grids and modern UI. | [**View Live**](https://online-shop-blue-nu.vercel.app) |
-| **Andishmandan Law** | Corporate | A professional business website designed for a legal firm. | [**View Live**](https://andishmandan-law-firm.vercel.app) |
-| **Weblog** | Blog Platform | A minimalist and readable platform for sharing articles and content. | [**View Live**](https://weblog-liard-two.vercel.app) |
-
----
-
-### 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
+| **Online Shop** | 🛒 E-Commerce | A modern, responsive store interface designed for optimal user experience. | [**View Live**](https://online-shop-blue-nu.vercel.app) |
+| **Andishmandan Law** | ⚖️ Corporate | A professional, trustworthy website tailored for a legal firm. | [**View Live**](https://andishmandan-law-firm.vercel.app) |
+| **Weblog** | ✍️ Blog | A minimalist content platform focused on readability and typography. | [**View Live**](https://weblog-liard-two.vercel.app) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malirezag&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malirezag&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malirezag&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malirezag&layout=compact&theme=midnight-owl&hide_border=true" height="150" alt="languages graph" />
 </div>
